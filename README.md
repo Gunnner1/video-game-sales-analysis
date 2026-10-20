@@ -38,3 +38,7 @@ Download the `.pbix` file and open it using Power BI Desktop to interact with th
 
 ## Notes
 Sales figures are expressed in millions of units. The dataset contains historical video game sales records, and missing or incomplete years should be considered when interpreting trends.
+
+## Dashboard Preview
+
+![Video Game Sales Analysis Dashboard](video-game-sales-dashboard.png)
